@@ -1,0 +1,28 @@
+Privacy Policy for SloGlo Arcade
+Last Updated: May 29, 2026
+1. Introduction Welcome to SloGlo Arcade ("the App"). 
+We respect your privacy and are committed to protecting any information related to your use of the App. 
+This Privacy Policy explains our practices regarding data collection and usage.
+
+2. Data Collection and Usage
+* No Personal Data Collection: 
+SloGlo Arcade does not collect, store, or transmit any personal identification information (such as your name, email address, phone number, or physical location).
+* Local Storage Only: 
+All game progression, high scores, current arcade credit balances, daily free top-up allocations, and unlocked custom theme purchases are saved locally on your physical device. This data is stored using standard iOS local storage mechanics and is never uploaded to an external server.
+* No Third-Party Analytics or Tracking: 
+The App does not contain third-party tracking software, analytics packages, or advertising SDKs.
+
+3. Children's Privacy
+Because SloGlo Arcade features simulated arcade and casino-style mechanics (using entirely fictional, free-to-play credits), 
+the App is rated 17+/18+ on the App Store. 
+However, because we do not collect any personal data whatsoever, 
+we do not knowingly or actively collect any data from individuals of any age group, including children.
+
+4. In-App Purchases and Real Gambling 
+The App contains zero In-App Purchases, paid microtransactions, or real-money gambling features. 
+Fictional credits cannot be exchanged for real money, services, or physical items.
+
+5. Changes to This Privacy Policy We may update our Privacy Policy from time to time. 
+Any changes will be reflected on this page with an updated "Last Updated" date.
+
+6. Contact Us If you have any questions or feedback regarding this Privacy Policy, please contact us at: [  ]
